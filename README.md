@@ -1,6 +1,5 @@
 # devops_code_to_prod
 DevOps Code to Production házi feladat (Python + Docker + Terraform + GitHub Actions)
-Code to Production
 Ez a projekt bemutatja, hogyan lehet egy egyszerű Python alkalmazást
 konténerizálni, infrastruktúraként leírni, majd CI/CD pipeline-nal kezelni.
 A feladat fő részei:
