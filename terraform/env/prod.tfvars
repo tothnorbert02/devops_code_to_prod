@@ -1,4 +1,4 @@
 project_name    = "code2prod"
 environment     = "prod"
 location        = "westeurope"
-container_image = "dummyregistry.io/code2prod:prod"
+container_image = "ghcr.io/tothnorbert02/devops_code_to_prod:prod"
