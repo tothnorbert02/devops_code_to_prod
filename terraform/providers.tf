@@ -8,7 +8,6 @@ terraform {
     }
   }
 
-  # Egyszerűség kedvéért: lokális state
   backend "local" {}
 }
 
